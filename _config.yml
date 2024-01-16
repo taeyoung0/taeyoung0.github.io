@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: TaeYoung # the main title
 
-tagline: 개발자가 되기 위해 # it will display as the sub-title
+tagline: 공부 기록 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
